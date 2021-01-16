@@ -16,7 +16,7 @@ To go through the various UX stages and create a resume site as followed via Cod
     Indication of completion date of the project: 23rd Jan 2021
 
 ## Requirements on the development environment for integration
-    Github 2021 - Repository: Resume-project
+    Github 2021 - Repository: ResumeTezBaydu-project
     Gitpod 2021
 ## A guide to installation and use
 ## A list of technology used and any links to further information related to this technology (Credits to images, icons, statements, stock)
@@ -61,7 +61,7 @@ Functional specifications:
 
 # Project update #
 
-## Current ## 
+## Initial Tez Baydu resume project to be renamed in Github ## 
 1. readme file updated with Content
 2. assets folder created with images and css folders added
 3. css file created
@@ -69,5 +69,12 @@ Functional specifications:
 
 ## to do ##
 Need to rename this so it is personal as LMS is going through standard Rosie project it looks like...
+
+## Current ##
+5. Renamed successfuly in Github
+
+## to do ##
+Stall project and follow LMS version on 'Rosie'.
+Potentially return to it is wanting to create one for self.
 
 
