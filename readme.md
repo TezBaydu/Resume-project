@@ -1,19 +1,18 @@
-Welcome !
+# Welcome !
 
-This Readme file will contain general requirements for a Readme file, the ux requirements as the project is being worked on and a step by step update of the project as it is being worked on.
-It will be constantly updated through the journey of the project.
+This Readme file will contain general project requirements and updates throughout the journey of the project.
 
-# General Readme requirements #
+## A general description of the project
+To create an informative and visually pleasing site, *utilising HTML and CSS*, displaying various attributes of Tez Baydu in a resume style format.
+This with the aim to increase peer network, partnership collaboration and employability.
+Main target audience are employers and partnering collaborators.
 
-## A general description of the project ##
-To go through the various UX stages and create a resume site as followed via Code Institutes LMS.
-
-## The project status ##
+## The project status
     Stages of which project is at currently: Strategy
 
-    Planned changes and the development direction: Business Objectives understood and considering content and function specifications. Going to go throught LMS course.
+Planned changes and the development direction: Business Objectives understood and considering content and function specifications. Going to go throught LMS course.
 
-    Indication of completion date of the project: 23rd Jan 2021
+    Indication of completion date of the project: tbc
 
 ## Requirements on the development environment for integration
     Github 2021 - Repository: ResumeTezBaydu-project
@@ -27,37 +26,6 @@ To go through the various UX stages and create a resume site as followed via Cod
 ## Copyright and licensing information
 
 //***************************************************************************//
-
-# UX requirements #
-
-## Strategy ## (What are you aiming to achieve in the first place and for whom?) Business objectives
-This project is to display various aspects of a person (In this instance Tezcan Baydu) in a resume informative format.
-The aim is for anyone who views will have a better understanding of the subject and will also see their HTML & CSS development capabilities through this site.
-Main target audience are employers and partnering collaborators.
-
-## Scope ## (What features and content are to be included in the design?) Functional specification and Content requirement
-Website to show the content:
-    personal statement
-    experience (work and personal)
-    capabilities
-    qualifictions
-    contact details
-    interests
-    references
-    downloadable pdf
-    personal achievements
-
-Functional specifications:
-    Workable in all formats (Mobile - Desktop)
-    
-
-## Structure ## (How is the info structured and is it logically grouped?) Interaction and Information Design
-
-## Skeleton ## (How the info should be implemented and prioritised. How the user will navigate through info and features) Interface, Navigation and Information design.
-
-## Surface ## (What it will look like, colours, typography, images, design, elements, etc) Visual design
-
-// *******************************************************************//
 
 # Project update #
 
