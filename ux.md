@@ -4,48 +4,48 @@
 
 ## Strategy
 Business objectives (What are you aiming to achieve in the first place and for whom?)
-  > This project is to display various aspects of Tez Baydu in a resume informative format.
-    > - The aim is for anyone who views will have a better understanding of Tez Baydu and will also see his HTML & CSS development capabilities through this site.
-    > - To increase peer network and employment opportunities.
-    > - Main target audience are employers and partnering collaborators.
+  - This project is to display various aspects of Tez Baydu in a resume informative format.
+    - The aim is for anyone who views will have a better understanding of Tez Baydu and will also see his HTML & CSS development capabilities through this site.
+    - To increase peer network and employment opportunities.
+    - Main target audience are employers and partnering collaborators.
 
 
 
 ## Scope  
 Content requirements and Functional specifications (What features and content are to be included in the design?)
- > Content requirements:
-    > - Personal statement
-    > - Experience (work and personal)
-    > - Capabilities
-    > - Qualifictions
-    > - Contact details
-    > - Interests
-    > - References
-    > - Personal achievements
-    > - Skills
-    > - Mentions
-    > - Software
-    > - Specific Projects
-    > - Groups involved with
-    > - Meetings / Conferences attended
-    > - Partnered companies involved with
+ - Content requirements:
+   - Personal statement
+   - Experience (work and personal)
+   - Capabilities
+   - Qualifictions
+   - Contact details
+   - Interests
+   - References
+   - Personal achievements
+   - Skills
+   - Mentions
+   - Software
+   - Specific Projects
+   - Groups involved with
+   - Meetings / Conferences attended
+   - Partnered companies involved with
      
    
- > Functional specifications:
-    > - Workable in projected formats
-        >   - Mobile
-        >   - Tablet
-        >   - Desktop
-    > - Workable in projected User Interfaces
-        >   - Google Chrome
-        >   - Edge / Internet Explorer
-        >   - Firefox
-    > - Screenreadable for visually impaired
-    > - Alt messages on images for visually impaired
-    > - Back-End interaction not necessarily required at this stage *(Guidance from mentor)*
-    > - Downloadable pdf
-    > - Social link
-    > - Collaboration ability
+ - Functional specifications: 
+    - Workable in projected formats
+      - Mobile
+      - Tablet
+      - Desktop
+    - Workable in projected User Interfaces
+      - Google Chrome
+      - Edge / Internet Explorer
+      - Firefox
+    - Screenreadable for visually impaired
+    - Alt messages on images for visually impaired
+    - Back-End interaction not necessarily required at this stage *(Guidance from mentor)*
+    - Downloadable pdf
+    - Social link
+    - Collaboration ability
 
     
 
