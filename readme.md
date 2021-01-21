@@ -22,6 +22,7 @@ Planned changes and the development direction: Business Objectives understood an
     Bootstrap v4.2.1 (as advised by Code Institute LMS)
 ## Open-source projects that the developers independently modify or expand should be contained in a section on 'desired collaboration'. How should problems be handled? How should developers advance the changes?
 ## Known bugs and any bug fixes
+ - When listing, best to use '-' rather than '*' as although the preview in Gitpod works, the preview in Github doesn't show them listed and will not be portrayed best to viewers in Github.
 ## FAQ section with all previously asked questions
 ## Copyright and licensing information
 

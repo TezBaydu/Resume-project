@@ -5,30 +5,30 @@
 ## Strategy
 Business objectives (What are you aiming to achieve in the first place and for whom?)
   > This project is to display various aspects of Tez Baydu in a resume informative format.
-    > * The aim is for anyone who views will have a better understanding of Tez Baydu and will also see his HTML & CSS development capabilities through this site.
-    > * To increase peer network and employment opportunities.
-    > * Main target audience are employers and partnering collaborators.
+    > - The aim is for anyone who views will have a better understanding of Tez Baydu and will also see his HTML & CSS development capabilities through this site.
+    > - To increase peer network and employment opportunities.
+    > - Main target audience are employers and partnering collaborators.
 
 
 
 ## Scope  
 Content requirements and Functional specifications (What features and content are to be included in the design?)
  > Content requirements:
-    > * Personal statement
-    > * Experience (work and personal)
-    > * Capabilities
-    > * Qualifictions
-    > * Contact details
-    > * Interests
-    > * References
-    > * Personal achievements
-    > * Skills
-    > * Mentions
-    > * Software
-    > * Specific Projects
-    > * Groups involved with
-    > * Meetings / Conferences attended
-    > * Partnered companies involved with
+    > - Personal statement
+    > - Experience (work and personal)
+    > - Capabilities
+    > - Qualifictions
+    > - Contact details
+    > - Interests
+    > - References
+    > - Personal achievements
+    > - Skills
+    > - Mentions
+    > - Software
+    > - Specific Projects
+    > - Groups involved with
+    > - Meetings / Conferences attended
+    > - Partnered companies involved with
      
    
  > Functional specifications:
@@ -43,9 +43,9 @@ Content requirements and Functional specifications (What features and content ar
     > - Screenreadable for visually impaired
     > - Alt messages on images for visually impaired
     > - Back-End interaction not necessarily required at this stage *(Guidance from mentor)*
-    > * Downloadable pdf
-    > * Social link
-    > * Collaboration ability
+    > - Downloadable pdf
+    > - Social link
+    > - Collaboration ability
 
     
 
