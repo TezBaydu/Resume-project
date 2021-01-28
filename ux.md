@@ -58,11 +58,11 @@ Interaction and Information Design (How is the info structured and is it logical
 
  - Interaction design:
     - *What parts should and shouldn't be grouped?*
-        - G1: Contact details, Personal Statement, Skills, Capabilities
+        - G1: Personal Statement, Skills, References, Mentions, Interests, ~~Capabilities~~
         - G2: Experience (work and personal), Qualifications, Timeline
-        - G3: Personal achievements, Software, Specific Projects (past and present), Groups involved with, Meetings / Conferences attended, Partnered companies involved with, Recruiters
-        - G4: Interests, References, Mentions
-        - G5: Contact section
+        - G3: ~~Personal achievements~~, Software, Specific Projects (past and present), Groups involved with, ~~Meetings / Conferences attended~~, Partnered companies involved with, Recruiters
+        - G4: Contact details, Contact Form section
+        - G5: Download
  - *Should some sections be shown completely separately? Like Partnerships, Recruiters, Organisations worked with previously*
     - Groupings above
  - *Should personal images be used?*
@@ -71,7 +71,7 @@ Interaction and Information Design (How is the info structured and is it logical
 - Information design:
     - *What parts should be prioritised?*
       - Priority order:
-            - G1, G2, G5, G3, G4
+            - G1, G2, G4, G3, G5
     - *What would the user want to see when first arriving at site?*
         - Clear indicator website is about Tez Baydu: perhaps through use of personal image.
         - Easily locatable menu options.
@@ -102,11 +102,16 @@ Interface, Navigation and Information design. (How the info should be implemente
                 - Images, layout, menu
                 - make it easy to navigate
                 - quality over quantity content
+                - Mentor advised  color site: [Color advised site](https://coolors.co)
         - Wireframing sites to investigate:
             - Balsamiq
+                - 30 day free trial, nervous this may not be long enough for projects
             - Marvel
+                - Free for only 1 project and need to produce 4 and so nervous to use
             - Figma
+                - Signed up as advised by mentor and looks like it is free to use at it's basic stage which is just what is needed
             - Wireframe.cc
+                - Only 7 day free trial and don;t think this will be long enough for first project
             - justinmind.com
 
 ## Surface 
